@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.robot_class_run">
+  <component name="RunManager" selected="Python.robot_raw_script">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="skrypt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,9 +186,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.robot_raw_script" />
         <item itemvalue="Python.robot_class_run" />
         <item itemvalue="Python.robot_class" />
-        <item itemvalue="Python.robot_raw_script" />
         <item itemvalue="Python.panda" />
         <item itemvalue="Python.main" />
       </list>
@@ -212,22 +212,34 @@
       <option name="project" value="LOCAL" />
       <updated>1611006084346</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="github settings">
+      <created>1611006800167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611006800167</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="github settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="github settings" />
   </component>
   <component name="WindowStateProjectService">
     <state x="182" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610999872182">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state x="182" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.23.1393.877@47.23.1393.877" timestamp="1610999872182" />
-    <state x="318" y="23" key="CommitChangelistDialog2" timestamp="1611006084016">
+    <state x="318" y="23" key="CommitChangelistDialog2" timestamp="1611006799916">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
-    <state x="318" y="23" key="CommitChangelistDialog2/47.23.1393.877@47.23.1393.877" timestamp="1611006084016" />
+    <state x="318" y="23" key="CommitChangelistDialog2/47.23.1393.877@47.23.1393.877" timestamp="1611006799916" />
+    <state x="614" y="336" key="Github.ShareDialog" timestamp="1611006873390">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="614" y="336" key="Github.ShareDialog/47.23.1393.877@47.23.1393.877" timestamp="1611006873390" />
     <state width="1181" height="244" key="GridCell.Tab.0.bottom" timestamp="1611005760030">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
