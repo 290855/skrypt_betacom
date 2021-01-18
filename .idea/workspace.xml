@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nFwvMKcK9RrWEFp64sJy52QXBn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Python.robot_class_run">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -173,12 +177,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
+      <item itemvalue="Python.robot_testowy" />
       <item itemvalue="Python.panda" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.robot_class" />
       <item itemvalue="Python.robot_class_run" />
       <item itemvalue="Python.robot_raw_script" />
-      <item itemvalue="Python.robot_testowy" />
     </list>
     <recent_temporary>
       <list>
@@ -201,13 +205,29 @@
       <option name="presentableId" value="Default" />
       <updated>1610999375229</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1611006084346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611006084346</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="182" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610999872182">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state x="182" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.23.1393.877@47.23.1393.877" timestamp="1610999872182" />
+    <state x="318" y="23" key="CommitChangelistDialog2" timestamp="1611006084016">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="318" y="23" key="CommitChangelistDialog2/47.23.1393.877@47.23.1393.877" timestamp="1611006084016" />
     <state width="1181" height="244" key="GridCell.Tab.0.bottom" timestamp="1611005760030">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
@@ -240,9 +260,9 @@
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state width="1181" height="244" key="GridCell.Tab.1.right/47.23.1393.877@47.23.1393.877" timestamp="1611005760031" />
-    <state x="219" y="94" key="SettingsEditor" timestamp="1610999796751">
+    <state x="219" y="94" key="SettingsEditor" timestamp="1611006745158">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
-    <state x="219" y="94" key="SettingsEditor/47.23.1393.877@47.23.1393.877" timestamp="1610999796751" />
+    <state x="219" y="94" key="SettingsEditor/47.23.1393.877@47.23.1393.877" timestamp="1611006745158" />
   </component>
 </project>
